@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">mi tiendita 1 y 2</string>
+    <string name="action_settings">Configuraciones</string>
+    <string name="intro_text">Postres Droid</string>
+    <string name="donuts">Donuts que se glasean y se espolvorean con caramelo.</string>
+    <string name="ice_cream_sandwiches">Los sándwiches de helado tienen obleas de chocolate y relleno de vainilla.</string>
+    <string name="froyo">FroYo es yogurt helado de autoservicio premium.</string>
+    <string name="donut_order_message">Pediste una rosquilla.</string>
+    <string name="ice_cream_order_message">Pediste un ice cream sandwich.</string>
+    <string name="froyo_order_message">Pediste un FroYo.</string>
+    <string name="change_dessert">Cambie el postre</string>
+    <string name="appbar_scrolling_view_behavior">.</string>
+</resources>
