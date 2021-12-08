@@ -10,4 +10,5 @@
     <string name="froyo_order_message">Pediste un FroYo.</string>
     <string name="change_dessert">Cambie el postre</string>
     <string name="appbar_scrolling_view_behavior">.</string>
+    <string name="todo">TODO</string>
 </resources>
